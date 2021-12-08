@@ -1,1 +1,1 @@
-Repositõrio para aprender a mexer com o Git e salvar os arquivos de estudo!
+Repositório para aprender a mexer com o Git e salvar os arquivos de estudo!
